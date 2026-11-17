@@ -23,7 +23,7 @@ Our engineering priorities include:
 - Go-native server and endpoint agent architecture
 - Declarative YAML-based configuration
 - Git-driven infrastructure workflows
-- Linux and Windows as first-class platforms
+- Designed with Linux and Windows as first-class platforms.
 - Secure agent communication and centralized management
 - Self-hosted deployment and extensibility
 
